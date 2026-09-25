@@ -1,0 +1,1 @@
+Upload the CONTENTS of this ZIP to the ROOT of your repository. Replace the old index.html. Keep es/ and assets/ at root. The English index.html contains its images for standalone viewing; the Spanish page uses the assets/ folder. In Settings > Pages, use main branch and / (root). Do not upload the ZIP itself as one GitHub file.
