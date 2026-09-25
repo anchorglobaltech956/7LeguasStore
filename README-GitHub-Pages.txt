@@ -1,1 +1,1 @@
-Extract ZIP and upload its CONTENTS to the repository root: index.html, assets/, es/. Replace the existing files. Enable Pages from main / (root). Keep assets/ in the root; both languages use it. Do not upload the ZIP itself as one GitHub file.
+Extract the ZIP. Upload the CONTENTS to your repository root: index.html, assets/, and es/. Replace the old versions. GitHub Pages must publish from main / (root). The images are WebP; the old JPG/PNG image files are not needed. Do not upload the ZIP as one file.
