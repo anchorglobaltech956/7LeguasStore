@@ -1,1 +1,1 @@
-Upload the CONTENTS of this ZIP to the root of your GitHub repository. Replace index.html and the assets and es folders with these current files. The English index.html embeds its photos. The Spanish page uses the assets folder. Enable Pages from main / (root).
+Extract ZIP and upload its CONTENTS to the repository root: index.html, assets/, es/. Replace the existing files. Enable Pages from main / (root). Keep assets/ in the root; both languages use it. Do not upload the ZIP itself as one GitHub file.
